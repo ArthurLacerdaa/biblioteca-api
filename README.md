@@ -1,23 +1,24 @@
 # 📚 Biblioteca API
 
-API simples de gerenciamento de livros e usuários, desenvolvida com Django, PostgreSQL e Docker.
+API REST simples de gerenciamento de livros e usuários, desenvolvida com **Django**, **Django REST Framework**, **PostgreSQL** e **Docker**.
 
 ---
 
 ## 🚀 Tecnologias
 
-- Python
-- Django
+- Python 3.12
+- Django 6
 - Django REST Framework
-- PostgreSQL
+- PostgreSQL 16
 - Docker
 - Docker Compose
 
 ---
 
-## ⚙️ Como executar o projeto
+## 📦 Como executar o projeto
 
 ### 1. Clonar o repositório
+
 ```bash
-git clone https://github.com/ArthurLacerdaa/p2
-cd p2
+git clone https://github.com/ArthurLacerdaa/biblioteca-api.git
+cd biblioteca-api
